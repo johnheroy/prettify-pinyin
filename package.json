@@ -1,0 +1,28 @@
+{
+  "name": "prettify-pinyin",
+  "version": "0.0.1",
+  "description": "Turns letters + numbers into letters + tonemarks",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/johnheroy/prettify-pinyin.git"
+  },
+  "keywords": [
+    "Chinese",
+    "汉字",
+    "pinyin",
+    "拼音"
+  ],
+  "author": "John Heroy",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/johnheroy/prettify-pinyin/issues"
+  },
+  "homepage": "https://github.com/johnheroy/prettify-pinyin",
+  "dependencies": {
+    "mocha": "^1.21.5"
+  }
+}
