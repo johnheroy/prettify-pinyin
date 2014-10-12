@@ -1,6 +1,6 @@
 {
   "name": "prettify-pinyin",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Turns letters + numbers into letters + tonemarks",
   "main": "index.js",
   "scripts": {
