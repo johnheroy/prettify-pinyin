@@ -28,7 +28,7 @@ var prettify = function(str){
     var syllable = syllables[i];
     var tone = parseInt(syllable[syllable.length-1]);
     
-    if (tone <= 0 || tone > 4) throw new Error('invalid tone number');
+    if (tone <= 0 || tone > 4) console.error('invalid tone number:', tone, 'in', syllable);
 
     for (var j = 0; j < syllable.length; j++){
       var currentLetter = syllable[j];
