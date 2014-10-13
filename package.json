@@ -1,7 +1,7 @@
 {
   "name": "prettify-pinyin",
   "version": "0.1.0",
-  "description": "Turns letters + numbers into letters + tonemarks",
+  "description": "Turns 'ni3 hao3' into 'nǐ hǎo' etc",
   "main": "index.js",
   "scripts": {
     "test": "mocha"
