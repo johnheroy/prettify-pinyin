@@ -1,6 +1,6 @@
 {
   "name": "prettify-pinyin",
-  "version": "0.1.0",
+  "version": "0.1.2",
   "description": "Turns 'ni3 hao3' into 'nǐ hǎo' etc",
   "main": "index.js",
   "scripts": {
