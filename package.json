@@ -23,6 +23,8 @@
   },
   "homepage": "https://github.com/johnheroy/prettify-pinyin",
   "devDependencies": {
-    "mocha": "1.21.x"
+    "coveralls": "^2.11.2",
+    "mocha": "1.21.x",
+    "mocha-lcov-reporter": "0.0.1"
   }
 }
